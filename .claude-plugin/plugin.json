@@ -1,0 +1,24 @@
+{
+  "name": "heyquad",
+  "version": "1.0.0",
+  "description": "Work your HeyQuad inbox from Claude: triage what needs a reply, read threads with their customer context, draft grounded replies for you to review and send, and file conversations. Drafts only; nothing is sent for you.",
+  "author": {
+    "name": "HeyQuad",
+    "email": "support@heyquad.com",
+    "url": "https://heyquad.com"
+  },
+  "homepage": "https://heyquad.com",
+  "keywords": [
+    "email",
+    "inbox",
+    "crm",
+    "customer service",
+    "small business",
+    "heyquad"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://heyquad.com/help",
+  "supportUrl": "https://heyquad.com/support",
+  "privacyPolicyUrl": "https://heyquad.com/privacy",
+  "termsOfServiceUrl": "https://heyquad.com/terms"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "heyquad",
+  "owner": {
+    "name": "HeyQuad",
+    "email": "support@heyquad.com"
+  },
+  "metadata": {
+    "description": "HeyQuad plugins for Claude: work your HeyQuad business inbox, CRM and phone platform from Claude."
+  },
+  "plugins": [
+    {
+      "name": "heyquad",
+      "source": "./",
+      "description": "Work your HeyQuad inbox from Claude: triage, read with context, draft replies, file. Drafts only."
+    }
+  ]
+}
