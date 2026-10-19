@@ -12,7 +12,7 @@ Connect it to:
 ## Requirements
 
 - A HeyQuad account.
-- Your organization's admin has turned on **Settings › Security › AI apps (MCP)**.
+- Your organization's admin has turned on **Settings › Inbox & email › AI apps (MCP)**.
 
 You sign in with your HeyQuad login and pick one organization. The app can only do what you can do
 in HeyQuad yourself, and only in that organization. To revoke access, go to **Account › Connected
