@@ -75,6 +75,12 @@
               "prompt": "Mark the newsletter emails in my inbox as done.",
               "tools_triggered": "inbox, act",
               "expected_behavior": "Finds the two newsletters (Plumbing Pros Weekly, SupplyHouse Deals), marks them done with act, and reports the undo it returned."
+            },
+            {
+              "description": "Leave an internal note and update the ticket",
+              "prompt": "Note on James Carter's leak email that a plumber is booked for Thursday, and make the water heater ticket urgent.",
+              "tools_triggered": "inbox, act, context, ticket",
+              "expected_behavior": "Adds the note with act (action note, internal: the customer never sees it), finds the open ticket \"Water heater leak - unit 4B\" with context, and updates it with ticket (ticketId, priority urgent), reporting the undo. Nothing is emailed."
             }
           ],
           "negative": [
